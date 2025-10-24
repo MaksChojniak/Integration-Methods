@@ -1,2 +1,7 @@
 # Integration-Methods
-rectangle method, trapezoidal method and Simpson’s method
+
+- Rectangle Method
+- Trapezoidal Method
+- Simpson’s Method
+
+This material is designed for educational use in numerical algorithms and linear algebra laboratory courses.
